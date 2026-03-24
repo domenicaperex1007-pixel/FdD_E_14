@@ -30,7 +30,7 @@
 | Sofía Calva       | Programadora       | Programación, simulación                     |
 | Némesis Dulanto   | Diseñadora         | Diseño de prototipos                         |
 | Kevin Huilca      | Investigación      | Gestión ambiental, desarrollo comunitario    |
-| Caleb Caico       | Documentación      | Comunicación científica, redacción técnica   |
+| Caleb Cayco       | Documentación      | Comunicación científica, redacción técnica   |
 
 ## 📌 Resumen 
 
