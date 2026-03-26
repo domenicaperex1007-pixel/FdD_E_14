@@ -17,9 +17,9 @@
 ## 🌊 ODS 6: Agua limpia y saneamiento    
 El Objetivo de Desarrollo Sostenible 6 plantea la necesidad de garantizar el acceso universal a agua potable y servicios de saneamiento adecuados, así como mejorar la calidad del agua para proteger la salud humana y los ecosistemas.
 
-Actualmente, el mundo enfrenta un desafío crítico: aproximadamente 2 200 millones de personas no tienen acceso a agua potable segura, y el 80 % de las aguas residuales se devuelve al ambiente sin tratamiento [1]. Esta situación provoca contaminación de ríos, lagos y mares, aumentando la incidencia de enfermedades transmitidas por el agua, como diarrea y cólera, especialmente en comunidades vulnerables [1].
+Actualmente, el mundo enfrenta un desafío crítico: aproximadamente 2 200 millones de personas no tienen acceso a agua potable segura, y el 80 % de las aguas residuales se devuelve al ambiente sin tratamiento [2]. Esta situación provoca contaminación de ríos, lagos y mares, aumentando la incidencia de enfermedades transmitidas por el agua, como diarrea y cólera, especialmente en comunidades vulnerables [2].
 
-A nivel local y regional, la insuficiente infraestructura de tratamiento de aguas y el vertimiento de residuos industriales y domésticos agravan la problemática, dificultando la disponibilidad de agua segura y afectando directamente la salud pública y la sostenibilidad ambiental [1].
+A nivel local y regional, la insuficiente infraestructura de tratamiento de aguas y el vertimiento de residuos industriales y domésticos agravan la problemática, dificultando la disponibilidad de agua segura y afectando directamente la salud pública y la sostenibilidad ambiental [2].
 
 En ese contexto, es fundamental implementar soluciones que permitan reducir la contaminación, gestionar de manera segura las aguas residuales y fomentar la reutilización del agua, asegurando un suministro adecuado y protegiendo los ecosistemas acuáticos. Estas acciones son esenciales para avanzar hacia un desarrollo sostenible y garantizar la equidad en el acceso a los recursos hídricos a nivel global.
 
@@ -58,8 +58,8 @@ En ese sentido, el uso de herramientas tecnológicas para el monitoreo de variab
 
 ### 📚 Referencias 
 
-1. Naciones Unidas. *Agua*. Nueva York: Naciones Unidas https://www.un.org/es/global-issues/water
-2.
+1. 
+2. Naciones Unidas. *Agua*. Nueva York: Naciones Unidas https://www.un.org/es/global-issues/water
 3.
 4. Intergovernmental Panel on Climate Change. *Climate Change 2023: Synthesis Report*. Geneva: IPCC; 2023.
 
