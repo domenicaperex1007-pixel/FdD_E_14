@@ -49,7 +49,7 @@ Energía hidroeléctrica.
 Energía oceánica.
 Bioenergía.
 
-En contraposición, los combustibles fósiles —como el carbón, el petróleo y el gas natural— son fuentes de energía no renovables que tardan millones de años en formarse. Su combustión genera dióxido de carbono y otros gases de efecto invernadero, contribuyendo significativamente al cambio climático [5].
+En contraposición, los combustibles fósiles como el carbón, el petróleo y el gas natural son fuentes de energía no renovables que tardan millones de años en formarse. Su combustión genera dióxido de carbono y otros gases de efecto invernadero, contribuyendo significativamente al cambio climático [5].
 La producción de energía a partir de fuentes renovables emite considerablemente menos carbono que la quema de combustibles fósiles y, a largo plazo, resulta más económica. De acuerdo con el informe más reciente de la Agencia Internacional de Energías Renovables (IRENA), en 2024 se proyecta que el 92,5 % de la nueva capacidad eléctrica mundial provenga de fuentes renovables, frente al 83 % registrado en 2022 [6]. Esto evidencia la importancia de acelerar la transición energética para enfrentar la crisis climática.
 
 ## 🏙️ ODS 11: Ciudades y comunidades sostenibles
@@ -88,7 +88,7 @@ En ese sentido, el uso de herramientas tecnológicas para el monitoreo de variab
 | <img src="Recursos_Imagenes/Sofia.jpeg" width = "80"> | Sofía Calva | Programadora | Programación, simulación y automatización de procesos |
 | <img src="Recursos_Imagenes/Nemesis Dulanto.jpeg" width="80"> | Némesis Dulanto | Diseñadora | Diseño de prototipos, innovación, creatividad y adaptabilidad  |
 | <img src="Recursos_Imagenes/Kevin.jpg" width="80"> | Kevin Huillca | Investigación | Investigación de problemáticas urbanas, análisis de datos y propuestas de desarrollo comunitario sostenible |
-| <img src="https://via.placeholder.com/80"> | Caleb Cayco | Documentación | Elaboración de informes, redacción técnica y presentación de resultados |
+| <img src="Recursos_Imagenes/CALEB.jpeg" width="80"> | Caleb Cayco | Documentación | Elaboración de informes, redacción técnica y presentación de resultados |
 
 
 ## 📌 Resumen 
