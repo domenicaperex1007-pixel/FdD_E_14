@@ -15,6 +15,13 @@
 - 🏙️ **ODS 11:** Ciudades y comunidades sostenibles  
 - 🌱 **ODS 13:** Acción por el clima  
 
+### 💧 ODS 6: Agua limpia y saneamiento    
+El ODS 6: Agua limpia y saneamiento busca garantizar el acceso universal a agua potable segura y servicios de saneamiento e higiene adecuados, reconociendo que el agua es esencial para la salud, la educación y el desarrollo sostenible [1].
+
+A nivel global, 2.2 mil millones de personas carecen de agua segura, 3.4 mil millones no tienen saneamiento adecuado, y 1.7 mil millones carecen de servicios básicos de higiene, lo que aumenta la incidencia de enfermedades prevenibles, especialmente en niños y niñas [2,3].
+
+Localmente, la gestión ineficiente del agua y la falta de infraestructura limitan la disponibilidad y calidad de los recursos. La implementación de tecnologías de monitoreo y plataformas comunitarias puede optimizar la gestión, promover un uso responsable y contribuir al cumplimiento de las metas del ODS 6 antes de 2030 [4,5].
+
 ## 📸 Fotografía del Equipo
 <p align="center">
   <img src="https://github.com/domenicaperex1007-pixel/FdD_E_14/raw/main/Imagenes/Primera%20Imagen%20grupal.jpeg" width="500">
