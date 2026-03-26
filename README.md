@@ -1,5 +1,5 @@
 # 🌍 Equipo 14 - Fundamentos de diseño
-## Carrera de Ingeniería/ Informática/ Industrial
+## Carrera de Ingeniería Ambiental / Informática/ Industrial
 ## Universidad Peruana Cayetano Heredia
 ## 👥Descripción del equipo
 
@@ -75,7 +75,7 @@ En ese sentido, el uso de herramientas tecnológicas para el monitoreo de variab
 
 ## 📸 Fotografía del Equipo
 <p align="center">
-  <img src="https://github.com/domenicaperex1007-pixel/FdD_E_14/raw/main/Recursos_Imagenes/Primera%20Imagen%20grupal.jpeg" width="500">
+  <img src="https://github.com/domenicaperex1007-pixel/FdD_E_14/raw/main/Recursos_Imagenes/imagen_grupa.jpeg" width="500">
   <br>
   <em>Figura 1. Fotografía del equipo 14</em>
 </p>
