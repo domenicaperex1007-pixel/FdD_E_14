@@ -58,9 +58,9 @@ En ese sentido, el uso de herramientas tecnológicas para el monitoreo de variab
 
 | Foto | Nombre | Rol | Habilidades |
 |------|--------|-----|------------|
-| <img src="Imagenes/domenica.jpg" width="80"> | Doménica Pérez | Líder de equipo | Gestión de proyectos con enfoque en innovación social, sostenibilidad e impacto ambiental |
-| <img src="Imagenes/Sofia.jpeg" width = "80"> | Sofía Calva | Programadora | Programación, simulación y automatización de procesos |
-| <img src="Imagenes/Nemesis Dulanto.jpeg" width="80"> | Némesis Dulanto | Diseñadora | Diseño de prototipos, innovación, creatividad y adaptabilidad  |
+| <img src="Recursos_Imagenes/domenica.jpg" width="80"> | Doménica Pérez | Líder de equipo | Gestión de proyectos con enfoque en innovación social, sostenibilidad e impacto ambiental |
+| <img src="Recursos_Imagenes/Sofia.jpeg" width = "80"> | Sofía Calva | Programadora | Programación, simulación y automatización de procesos |
+| <img src="Recursos_Imagenes/Nemesis Dulanto.jpeg" width="80"> | Némesis Dulanto | Diseñadora | Diseño de prototipos, innovación, creatividad y adaptabilidad  |
 | <img src="https://via.placeholder.com/80"> | Kevin Huilca | Investigación | Gestión ambiental, desarrollo comunitario |
 | <img src="https://via.placeholder.com/80"> | Caleb Cayco | Documentación | Comunicación científica, redacción técnica |
 
