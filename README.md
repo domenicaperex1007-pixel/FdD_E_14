@@ -14,10 +14,23 @@
 - 💧 **ODS 6:** Agua limpia y saneamiento  
 - 🏙️ **ODS 11:** Ciudades y comunidades sostenibles  
 - 🌱 **ODS 13:** Acción por el clima
-## 🌊 ODS 6: Agua limpia y saneamiento    
-El Objetivo de Desarrollo Sostenible 6 plantea la necesidad de garantizar el acceso universal a agua potable y servicios de saneamiento adecuados, así como mejorar la calidad del agua para proteger la salud humana y los ecosistemas.
 
-Actualmente, el mundo enfrenta un desafío crítico: aproximadamente 2 200 millones de personas no tienen acceso a agua potable segura, y el 80 % de las aguas residuales se devuelve al ambiente sin tratamiento [1]. Esta situación provoca contaminación de ríos, lagos y mares, aumentando la incidencia de enfermedades transmitidas por el agua, como diarrea y cólera, especialmente en comunidades vulnerables [1].
+## 🧠ODS 3: Salud y bienestar
+
+El **Objetivo de Desarrollo Sostenible 3**, establecido en la Agenda 2030 por las Naciones Unidas, establece la necesidad de asegurar una vida saludable y fomentar el bienestar en todas las etapas de la vida. Esto supone un reto crucial ante el aumento de los riesgos que tienen un impacto global sobre la salud física y mental [2].
+
+En el presente, la magnitud de los desafíos de salud mundial es alarmante; por año se registran alrededor de 700,000 suicidios y casi 1.19 millones de fallecimientos debido a accidentes de tránsito en todo el mundo [1]. Los datos muestran que el bienestar no depende solamente de la intervención médica, sino también de la prevención y el mejoramiento de los ambientes en los cuales las personas interactúan todos los días.
+
+A nivel local, las dificultades relacionadas con el ODS 3 también se manifiestan en la falta de acceso a servicios sanitarios de calidad y en la exposición permanente a ambientes que no son seguros o están mal diseñados. En numerosas ciudades, la escasez de áreas apropiadas para el desarrollo físico y mental, el deterioro ambiental y el transporte inadecuado aumentan los peligros para los ciudadanos.  
+
+En esta línea, la organización de los objetos y espacios a menudo ignora las necesidades funcionales y psicológicas de los usuarios, lo que afecta su calidad de vida negativamente. Esto muestra la importancia de incorporar soluciones que posibiliten una gestión más consciente y eficaz de la salud, a nivel personal y colectivo.
+
+
+## 🌊 ODS 6: Agua limpia y saneamiento    
+
+El **Objetivo de Desarrollo Sostenible 6** plantea la necesidad de garantizar el acceso universal a agua potable y servicios de saneamiento adecuados, así como mejorar la calidad del agua para proteger la salud humana y los ecosistemas.
+
+Actualmente, el mundo enfrenta un desafío crítico: aproximadamente 2 200 millones de personas no tienen acceso a agua potable segura, y el 80 % de las aguas residuales se devuelve al ambiente sin tratamiento [2]. Esta situación provoca contaminación de ríos, lagos y mares, aumentando la incidencia de enfermedades transmitidas por el agua, como diarrea y cólera, especialmente en comunidades vulnerables [2].
 
 A nivel local y regional, la insuficiente infraestructura de tratamiento de aguas y el vertimiento de residuos industriales y domésticos agravan la problemática, dificultando la disponibilidad de agua segura y afectando directamente la salud pública y la sostenibilidad ambiental [1].
 
@@ -46,8 +59,8 @@ En ese sentido, el uso de herramientas tecnológicas para el monitoreo de variab
 | Foto | Nombre | Rol | Habilidades |
 |------|--------|-----|------------|
 | <img src="Imagenes/domenica.jpg" width="80"> | Doménica Pérez | Líder de equipo | Gestión de proyectos con enfoque en innovación social, sostenibilidad e impacto ambiental |
-| <img src="https://via.placeholder.com/80"> | Sofía Calva | Programadora | Programación, simulación |
-| <img src="Imagenes/Nemesis Dulanto.jpeg"> | Némesis Dulanto | Diseñadora | Diseño de prototipos, innovación, creatividad y adaptabilidad  |
+| <img src="Imagenes/Sofia.jpeg" width = "80"> | Sofía Calva | Programadora | Programación, simulación y automatización de procesos |
+| <img src="Imagenes/Nemesis Dulanto.jpeg" width="80"> | Némesis Dulanto | Diseñadora | Diseño de prototipos, innovación, creatividad y adaptabilidad  |
 | <img src="https://via.placeholder.com/80"> | Kevin Huilca | Investigación | Gestión ambiental, desarrollo comunitario |
 | <img src="https://via.placeholder.com/80"> | Caleb Cayco | Documentación | Comunicación científica, redacción técnica |
 
@@ -58,8 +71,8 @@ En ese sentido, el uso de herramientas tecnológicas para el monitoreo de variab
 
 ### 📚 Referencias 
 
-1. Naciones Unidas. *Agua*. Nueva York: Naciones Unidas https://www.un.org/es/global-issues/water
-2.
+1. Organización Mundial de la Salud. Suicide worldwide in 2019: global health estimates. Geneva: OMS; 2021. https://iris.who.int/handle/10665/341728
+2. Naciones Unidas. *Agua*. Nueva York: Naciones Unidas https://www.un.org/es/global-issues/water
 3.
 4. Intergovernmental Panel on Climate Change. *Climate Change 2023: Synthesis Report*. Geneva: IPCC; 2023.
 
