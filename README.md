@@ -36,6 +36,16 @@ A nivel local y regional, la insuficiente infraestructura de tratamiento de agua
 
 En ese contexto, es fundamental implementar soluciones que permitan reducir la contaminación, gestionar de manera segura las aguas residuales y fomentar la reutilización del agua, asegurando un suministro adecuado y protegiendo los ecosistemas acuáticos. Estas acciones son esenciales para avanzar hacia un desarrollo sostenible y garantizar la equidad en el acceso a los recursos hídricos a nivel global.
 
+## 🏙️ ODS 11: Ciudades y comunidades sostenibles
+
+El **Objetivo de Desarrollo Sostenible 11** plantea la necesidad de lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros y sostenibles, debido al crecimiento urbano acelerado que actualmente caracteriza a gran parte del mundo. Este objetivo busca mejorar la calidad de vida urbana mediante una adecuada planificación territorial, acceso a servicios básicos, transporte eficiente y protección de espacios públicos.
+
+En los últimos años, el crecimiento urbano ha generado importantes desafíos en movilidad, contaminación y acceso a vivienda. Según la Comisión Económica para América Latina y el Caribe, más de la mitad de la población mundial vive actualmente en ciudades, y para 2050 más de dos tercios de la población residirá en centros urbanos, lo que incrementará la presión sobre infraestructura, servicios públicos y recursos naturales [3].
+
+A nivel local, estos cambios también se reflejan en problemas como el tráfico vehicular, gestión inadecuada de residuos sólidos y reducción de áreas verdes, afectando directamente la calidad de vida de la población. Por esta razón, resulta importante impulsar estrategias de planificación urbana sostenible que permitan un uso adecuado del espacio y una gestión más eficiente de los recursos.
+
+En este contexto, el uso de herramientas tecnológicas para monitorear indicadores urbanos, mejorar los servicios públicos y mejorar la gestión territorial puede contribuir significativamente al desarrollo de comunidades más sostenibles y mejor organizadas.
+
 ## 🌱 ODS 13: Acción por el clima
 
 El **Objetivo de Desarrollo Sostenible 13** plantea la necesidad de tomar acciones frente al cambio climático, un fenómeno que viene generando impactos progresivos en los ecosistemas y en la vida cotidiana de las personas.
@@ -61,7 +71,7 @@ En ese sentido, el uso de herramientas tecnológicas para el monitoreo de variab
 | <img src="Recursos_Imagenes/domenica.jpg" width="80"> | Doménica Pérez | Líder de equipo | Gestión de proyectos con enfoque en innovación social, sostenibilidad e impacto ambiental |
 | <img src="Recursos_Imagenes/Sofia.jpeg" width = "80"> | Sofía Calva | Programadora | Programación, simulación y automatización de procesos |
 | <img src="Recursos_Imagenes/Nemesis Dulanto.jpeg" width="80"> | Némesis Dulanto | Diseñadora | Diseño de prototipos, innovación, creatividad y adaptabilidad  |
-| <img src="https://via.placeholder.com/80"> | Kevin Huilca | Investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="https://via.placeholder.com/80"> | Kevin Huilca | Investigación | Investigación de problemáticas urbanas, análisis de datos y propuestas de desarrollo comunitario sostenible |
 | <img src="https://via.placeholder.com/80"> | Caleb Cayco | Documentación | Comunicación científica, redacción técnica |
 
 
@@ -73,7 +83,7 @@ En ese sentido, el uso de herramientas tecnológicas para el monitoreo de variab
 
 1. Organización Mundial de la Salud. Suicide worldwide in 2019: global health estimates. Geneva: OMS; 2021. https://iris.who.int/handle/10665/341728
 2. Naciones Unidas. *Agua*. Nueva York: Naciones Unidas https://www.un.org/es/global-issues/water
-3.
+3. Comisión Económica para América Latina y el Caribe. 11. Ciudades y comunidades sostenibles [Internet]. Santiago de Chile: CEPAL; 2024 [citado 2026 Mar 25]. Disponible en: https://plataformaurbana.cepal.org/es/ods/11-ciudades-y-comunidades-sostenibles
 4. Intergovernmental Panel on Climate Change. *Climate Change 2023: Synthesis Report*. Geneva: IPCC; 2023.
 
 
