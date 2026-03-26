@@ -12,6 +12,7 @@
 
 - 🧠 **ODS 3:** Salud y bienestar
 - 💧 **ODS 6:** Agua limpia y saneamiento  
+- ⚡ **ODS 7:** Energías renovables
 - 🏙️ **ODS 11:** Ciudades y comunidades sostenibles  
 - 🌱 **ODS 13:** Acción por el clima
 
@@ -35,6 +36,21 @@ Actualmente, el mundo enfrenta un desafío crítico: aproximadamente 2 200 mil
 A nivel local y regional, la insuficiente infraestructura de tratamiento de aguas y el vertimiento de residuos industriales y domésticos agravan la problemática, dificultando la disponibilidad de agua segura y afectando directamente la salud pública y la sostenibilidad ambiental [2].
 
 En ese contexto, es fundamental implementar soluciones que permitan reducir la contaminación, gestionar de manera segura las aguas residuales y fomentar la reutilización del agua, asegurando un suministro adecuado y protegiendo los ecosistemas acuáticos. Estas acciones son esenciales para avanzar hacia un desarrollo sostenible y garantizar la equidad en el acceso a los recursos hídricos a nivel global.
+
+## ⚡ ODS 7: Energías renovables
+
+El Objetivo de Desarrollo Sostenible 7 busca garantizar el acceso a una energía asequible, segura, sostenible y moderna, promoviendo el uso de energías renovables como alternativa a los combustibles fósiles.
+Las energías renovables son formas de energía que se generan de manera natural y se reponen a una velocidad mayor a la de su consumo. Entre las principales fuentes se encuentran la energía solar y la energía eólica, las cuales se regeneran de forma constante y no se agotan con su uso. Las principales fuentes de energía renovable son:
+
+Energía solar.
+Energía eólica.
+Energía geotérmica.
+Energía hidroeléctrica.
+Energía oceánica.
+Bioenergía.
+
+En contraposición, los combustibles fósiles —como el carbón, el petróleo y el gas natural— son fuentes de energía no renovables que tardan millones de años en formarse. Su combustión genera dióxido de carbono y otros gases de efecto invernadero, contribuyendo significativamente al cambio climático [5].
+La producción de energía a partir de fuentes renovables emite considerablemente menos carbono que la quema de combustibles fósiles y, a largo plazo, resulta más económica. De acuerdo con el informe más reciente de la Agencia Internacional de Energías Renovables (IRENA), en 2024 se proyecta que el 92,5 % de la nueva capacidad eléctrica mundial provenga de fuentes renovables, frente al 83 % registrado en 2022 [6]. Esto evidencia la importancia de acelerar la transición energética para enfrentar la crisis climática.
 
 ## 🏙️ ODS 11: Ciudades y comunidades sostenibles
 
@@ -72,7 +88,7 @@ En ese sentido, el uso de herramientas tecnológicas para el monitoreo de variab
 | <img src="Recursos_Imagenes/Sofia.jpeg" width = "80"> | Sofía Calva | Programadora | Programación, simulación y automatización de procesos |
 | <img src="Recursos_Imagenes/Nemesis Dulanto.jpeg" width="80"> | Némesis Dulanto | Diseñadora | Diseño de prototipos, innovación, creatividad y adaptabilidad  |
 | <img src="Recursos_Imagenes/Kevin.jpg" width="80"> | Kevin Huillca | Investigación | Investigación de problemáticas urbanas, análisis de datos y propuestas de desarrollo comunitario sostenible |
-| <img src="https://via.placeholder.com/80"> | Caleb Cayco | Documentación | Comunicación científica, redacción técnica |
+| <img src="https://via.placeholder.com/80"> | Caleb Cayco | Documentación | Elaboración de informes, redacción técnica y presentación de resultados |
 
 
 ## 📌 Resumen 
@@ -85,6 +101,8 @@ En ese sentido, el uso de herramientas tecnológicas para el monitoreo de variab
 2. Naciones Unidas. *Agua*. Nueva York: Naciones Unidas https://www.un.org/es/global-issues/water
 3. Comisión Económica para América Latina y el Caribe. 11. Ciudades y comunidades sostenibles [Internet]. Santiago de Chile: CEPAL; 2024 [citado 2026 Mar 25]. Disponible en: https://plataformaurbana.cepal.org/es/ods/11-ciudades-y-comunidades-sostenibles
 4. Intergovernmental Panel on Climate Change. *Climate Change 2023: Synthesis Report*. Geneva: IPCC; 2023.
+5. Enel Group. Energías renovables [Internet]. Enel; [citado 22 mar 2026]. Disponible en: https://www.enel.com/es/learning-hub/renovables
+6. United Nations. What is renewable energy? [Internet]. United Nations; [citado 22 mar 2026]. Disponible en: https://www.un.org/es/climatechange/what-is-renewable-energy
 
 
 
