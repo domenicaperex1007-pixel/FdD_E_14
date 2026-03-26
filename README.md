@@ -15,7 +15,6 @@
 - 🏙️ **ODS 11:** Ciudades y comunidades sostenibles  
 - 🌱 **ODS 13:** Acción por el clima
 
-<<<<<<< HEAD
 ## 🧠ODS 3: Salud y bienestar
 
 El **Objetivo de Desarrollo Sostenible 3**, establecido en la Agenda 2030 por las Naciones Unidas, establece la necesidad de asegurar una vida saludable y fomentar el bienestar en todas las etapas de la vida. Esto supone un reto crucial ante el aumento de los riesgos que tienen un impacto global sobre la salud física y mental [2].
@@ -31,8 +30,6 @@ En esta línea, la organización de los objetos y espacios a menudo ignora las n
 
 El **Objetivo de Desarrollo Sostenible 6** plantea la necesidad de garantizar el acceso universal a agua potable y servicios de saneamiento adecuados, así como mejorar la calidad del agua para proteger la salud humana y los ecosistemas.
 
-=======
->>>>>>> 26a5c6c84715cef030d0c2460bc5b269a2ec0641
 Actualmente, el mundo enfrenta un desafío crítico: aproximadamente 2 200 millones de personas no tienen acceso a agua potable segura, y el 80 % de las aguas residuales se devuelve al ambiente sin tratamiento [2]. Esta situación provoca contaminación de ríos, lagos y mares, aumentando la incidencia de enfermedades transmitidas por el agua, como diarrea y cólera, especialmente en comunidades vulnerables [2].
 
 A nivel local y regional, la insuficiente infraestructura de tratamiento de aguas y el vertimiento de residuos industriales y domésticos agravan la problemática, dificultando la disponibilidad de agua segura y afectando directamente la salud pública y la sostenibilidad ambiental [2].
@@ -74,11 +71,7 @@ En ese sentido, el uso de herramientas tecnológicas para el monitoreo de variab
 
 ### 📚 Referencias 
 
-<<<<<<< HEAD
 1. Organización Mundial de la Salud. Suicide worldwide in 2019: global health estimates. Geneva: OMS; 2021. https://iris.who.int/handle/10665/341728
-=======
-1. 
->>>>>>> 26a5c6c84715cef030d0c2460bc5b269a2ec0641
 2. Naciones Unidas. *Agua*. Nueva York: Naciones Unidas https://www.un.org/es/global-issues/water
 3.
 4. Intergovernmental Panel on Climate Change. *Climate Change 2023: Synthesis Report*. Geneva: IPCC; 2023.
