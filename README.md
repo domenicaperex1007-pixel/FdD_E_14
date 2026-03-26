@@ -49,7 +49,7 @@ En ese sentido, el uso de herramientas tecnológicas para el monitoreo de variab
 
 ## 📸 Fotografía del Equipo
 <p align="center">
-  <img src="https://github.com/domenicaperex1007-pixel/FdD_E_14/raw/main/Imagenes/Primera%20Imagen%20grupal.jpeg" width="500">
+  <img src="https://github.com/domenicaperex1007-pixel/FdD_E_14/raw/main/Recursos_Imagenes/Primera%20Imagen%20grupal.jpeg" width="500">
   <br>
   <em>Figura 1. Fotografía del equipo 14</em>
 </p>
