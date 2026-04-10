@@ -10,7 +10,7 @@ El método propone una alerta temprana de inundaciones rurales considerando dos 
 
 ### - Imagen
 <p align="center">
-  <img src="Recursos_Imagenes/Mapa.png" width="60%"/>
+  <img src="https://github.com/domenicaperex1007-pixel/FdD_E_14/blob/6527bd49b539d4533eabe11bafeb1a0e61127d91/Recursos_Imagenes/Mapa.png" width="60%"/>
 </p>
 
 ### - ENLACE
@@ -29,7 +29,7 @@ La invención presenta un dispositivo automático para medir desplazamiento hori
 
 ### - IMAGEN
 <p align="center">
-  <img src="Recursos_Imagenes/Dispositivo.png" width="60%"/>
+  <img src="https://github.com/domenicaperex1007-pixel/FdD_E_14/blob/6527bd49b539d4533eabe11bafeb1a0e61127d91/Recursos_Imagenes/Dispositivo.png" width="60%"/>
 </p>
 
 ### - ENLACE
@@ -47,10 +47,10 @@ La invención propone un método de predicción de inundaciones fluviales basado
 
 ### - IMAGEN
 <p align="center">
-  <img src="Recursos_Imagenes/Metodo.png" width="60%"/>
+  <img src="https://github.com/domenicaperex1007-pixel/FdD_E_14/blob/6527bd49b539d4533eabe11bafeb1a0e61127d91/Recursos_Imagenes/Metodo.png" width="60%"/>
 </p>
 <p align="center">
-  <img src="Recursos_Imagenes/Descripcion.png" width="60%"/>
+  <img src="https://github.com/domenicaperex1007-pixel/FdD_E_14/blob/6527bd49b539d4533eabe11bafeb1a0e61127d91/Recursos_Imagenes/Descripcion.png" width="60%"/>
 </p>
 
 ### - ENLACE
