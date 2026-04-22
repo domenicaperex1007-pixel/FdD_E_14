@@ -1,4 +1,4 @@
-# Introducción: Vulnerabilidad extrema de ciudades a huaycos, inundaciones y deslizamientos por cambio climático
+# Introducción: Vulnerabilidad de las comunidades amazónicas frente a inundaciones por el cambio climático
 
 Las inundaciones constituyen uno de los desastres naturales más recurrentes en el Perú, especialmente durante la temporada de lluvias intensas entre noviembre y abril, cuando la saturación de suelos y el incremento de caudales elevan el riesgo de desbordes fluviales<sup>1,2</sup>. 
 
