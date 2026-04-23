@@ -19,21 +19,23 @@ https://worldwide.espacenet.com/patent/search?q=pn%3DWO2021003768A1
 
 ---
 
-## Dispositivo automático de medición de desplazamiento horizontal profundo
+## Alerta temprana y sistema de monitorización de inundaciones urbanas en el interior basado en análisis de big data
 
 ### - PUBLICACIÓN 
-CN111980003A·2020-11-24
+CN119181208A·2024-12-24
 
 ### - RESUMEN
-La invención presenta un dispositivo automático para medir desplazamiento horizontal profundo entre roca y suelo. Utiliza componentes mecánicos y electrónicos (motor, carrete, cable e inclinómetro) para detectar dirección y distancia del movimiento, generar señales de desplazamiento y profundidad, y enviar los datos a un servidor. Su estructura es sencilla y fácil de instalar, evita errores de la medición manual, funciona en condiciones adversas, reduce costos y permite visualización en línea y alarmas automáticas, logrando alta eficiencia y ahorro de recursos en la monitorización geotécnica.
+El sistema de alerta temprana de inundaciones basado en análisis de big data se fundamenta en la recopilación, transmisión y procesamiento de datos en tiempo real mediante sensores, permitiendo predecir eventos de inundación, emitir alertas oportunas por múltiples canales y apoyar la toma de decisiones ante emergencias. Este enfoque mejora la precisión y rapidez de las alertas, reduciendo significativamente los daños ocasionados. 
+
+Su relevancia para el proyecto Llaqta Guardian radica en que valida el uso de tecnologías basadas en datos y monitoreo continuo para la prevención de desastres; sin embargo, al estar orientado a entornos urbanos con alta conectividad, evidencia la necesidad de adaptar este tipo de soluciones a contextos rurales y de baja conectividad, como las comunidades amazónicas, donde se requiere un sistema accesible, eficiente y enfocado en la protección de la población vulnerable.
 
 ### - IMAGEN
 <p align="center">
-  <img src="https://github.com/domenicaperex1007-pixel/FdD_E_14/blob/6527bd49b539d4533eabe11bafeb1a0e61127d91/Recursos_Imagenes/Dispositivo.png" width="60%"/>
+  <img src="https://github.com/domenicaperex1007-pixel/FdD_E_14/blob/d0c7ce69503f0ca9528a8a90d1198226350ca55a/Recursos_Imagenes/Sistema.png" width="60%"/>
 </p>
 
 ### - ENLACE
-https://worldwide.espacenet.com/patent/search?q=pn%3DCN111980003A 
+https://worldwide.espacenet.com/patent/search?q=pn%3DCN119181208A
 
 ---
 
