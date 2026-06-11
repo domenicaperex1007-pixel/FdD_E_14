@@ -9,17 +9,17 @@ A continuación se presentan los bocetos definitivos del contenedor del disposit
 ### 1. Vista Isométrica / Perspectiva
 **Descripción:** Vista general en tres dimensiones que muestra la geometría del contenedor, la disposición de la tapa y las zonas de salida de sensores.
 
-![Vista Isométrica](./imagenes/vista_isometrica.jpeg)
+![Vista Isométrica](Recursos_Imagenes/Vista Isométrica.jpeg)
 
 ### 2. Vista Frontal (Elevación)
 **Descripción:** Proyección frontal que detalla el acceso principal, interfaces visibles (como LEDs de estado o interruptores externos) y dimensiones principales de la fachada.
 
-![Vista Frontal](./imagenes/vista_frontal.jpeg)
+![Vista Frontal](Recursos_Imagenes/Vista Frontal.jpeg)
 
 ### 3. Vista Lateral / Perfil
 **Descripción:** Muestra el grosor del contenedor, inclinación si la tuviera, y los puntos de sujeción para la instalación en campo.
 
-![Vista Lateral](./imagenes/vista_perfil.jpeg)
+![Vista Lateral](Recursos_Imagenes/Vista Lateral.jpeg)
 
 ---
 
