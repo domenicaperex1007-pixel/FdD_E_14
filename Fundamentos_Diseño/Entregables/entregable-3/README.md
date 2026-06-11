@@ -3,7 +3,7 @@
 Este módulo contiene la documentación técnica, esquemáticos finales, bocetos de diseño y los archivos de modelado e impresión 3D del sistema de alerta temprana.
 
 ## Contenido del Entregable
-1. [Esquemáticos Finales](./esquematicos/EsquematicoV3final.pdf)
+1. [Esquemáticos Finales](./esquematico/EsquematicoV3final.pdf)
 2. [Bocetos de Diseño (Vistas Externas e Internas)](./bocetos/README.md)
 3. Modelado 3D y Planos de Fabricación (Detallados abajo)
 
