@@ -46,13 +46,13 @@ Por ejemplo, un sistema de alerta temprana como Llaqta Guardian podría reducir 
 
 ## 👥 Integrantes del equipo
 
-| Foto | Nombre | Rol | Habilidades |
+| Foto | Nombre | Rol | Correo electrónico | Habilidades |
 |------|--------|-----|------------|
-| <img src="Recursos/Imágenes/Doménica Pérez.jpeg" width="80"> | Doménica Pérez | Líder de equipo | Gestión de proyectos con enfoque en innovación social, sostenibilidad e impacto ambiental |
-| <img src="Recursos/Imágenes/Sofia Calva.jpeg" width = "80"> | Sofía Calva | Programadora | Programación, simulación y automatización de procesos |
-| <img src="Recursos/Imágenes/Nemesis Dulanto.png" width="80"> | Némesis Dulanto | Diseñadora | Diseño de prototipos, innovación, creatividad y adaptabilidad  |
-| <img src="Recursos/Imágenes/Kevin Huillca.jpeg" width="80"> | Kevin Huillca | Investigación | Investigación de problemáticas urbanas, análisis de datos y propuestas de desarrollo comunitario sostenible |
-| <img src="Recursos/Imágenes/Caleb Cayco.png" width="80"> | Caleb Cayco | Documentación | Elaboración de informes, redacción técnica y presentación de resultados |
+| <img src="Recursos/Imágenes/Doménica Pérez.jpeg" width="80"> | Doménica Pérez | domenica.perez@upch.pe | Líder de equipo | Gestión de proyectos con enfoque en innovación social, sostenibilidad e impacto ambiental |
+| <img src="Recursos/Imágenes/Sofia Calva.jpeg" width = "80"> | Sofía Calva | sofia.calva@upch.pe | Programadora | Programación, simulación y automatización de procesos |
+| <img src="Recursos/Imágenes/Nemesis Dulanto.png" width="80"> | Némesis Dulanto | nemesis.dulanto@upch.pe | Diseñadora | Diseño de prototipos, innovación, creatividad y adaptabilidad  |
+| <img src="Recursos/Imágenes/Kevin Huillca.jpeg" width="80"> | Kevin Huillca | kevin.huillca@upch.pe | Investigación | Investigación de problemáticas urbanas, análisis de datos y propuestas de desarrollo comunitario sostenible |
+| <img src="Recursos/Imágenes/Caleb Cayco.png" width="80"> | Caleb Cayco | caleb.cayco@upch.pe | Documentación | Elaboración de informes, redacción técnica y presentación de resultados |
 
 
 ## 📌 Resumen 

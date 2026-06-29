@@ -46,14 +46,13 @@ Por ejemplo, un sistema de alerta temprana como Llaqta Guardian podría reducir 
 
 ## 👥 Integrantes del equipo
 
-| Foto | Nombre | Rol | Habilidades |
+| Foto | Nombre | Correo electrónico | Rol | Habilidades |
 |------|--------|-----|------------|
-| <img src="Recursos/Imágenes/Doménica Pérez.jpeg" width="80"> | Doménica Pérez | Líder de equipo | Gestión de proyectos con enfoque en innovación social, sostenibilidad e impacto ambiental |
-| <img src="Recursos/Imágenes/Sofia Calva.jpeg" width = "80"> | Sofía Calva | Programadora | Programación, simulación y automatización de procesos |
-| <img src="Recursos/Imágenes/Nemesis Dulanto.png" width="80"> | Némesis Dulanto | Diseñadora | Diseño de prototipos, innovación, creatividad y adaptabilidad  |
-| <img src="Recursos/Imágenes/Kevin Huillca.jpeg" width="80"> | Kevin Huillca | Investigación | Investigación de problemáticas urbanas, análisis de datos y propuestas de desarrollo comunitario sostenible |
-| <img src="Recursos/Imágenes/Caleb Cayco.png" width="80"> | Caleb Cayco | Documentación | Elaboración de informes, redacción técnica y presentación de resultados |
-
+| <img src="https://raw.githubusercontent.com/domenicaperex1007-pixel/FdD_E_14/1f8f25150f901ea72942f0af5bab73c1f0b4bd26/Recursos/Im%C3%A1genes/Dom%C3%A9nica%20P%C3%A9rez.jpeg" width="80"> | Doménica Pérez | domenica.perez@upch.pe | Líder de equipo | Gestión de proyectos con enfoque en innovación social, sostenibilidad e impacto ambiental |
+| <img src="https://raw.githubusercontent.com/domenicaperex1007-pixel/FdD_E_14/1f8f25150f901ea72942f0af5bab73c1f0b4bd26/Recursos/Im%C3%A1genes/Sofia%20Calva.jpeg" width="80"> | Sofía Calva | sofia.calva@upch.pe | Programadora | Programación, simulación y automatización de procesos |
+| <img src="https://raw.githubusercontent.com/domenicaperex1007-pixel/FdD_E_14/1f8f25150f901ea72942f0af5bab73c1f0b4bd26/Recursos/Im%C3%A1genes/Nemesis%20Dulanto.png" width="80"> | Némesis Dulanto | nemesis.dulanto@upch.pe | Diseñadora | Diseño de prototipos, innovación, creatividad y adaptabilidad  |
+| <img src="https://raw.githubusercontent.com/domenicaperex1007-pixel/FdD_E_14/1f8f25150f901ea72942f0af5bab73c1f0b4bd26/Recursos/Im%C3%A1genes/Kevin%20Huillca.jpeg" width="80"> | Kevin Huillca | kevin.huillca@upch.pe | Investigación | Investigación de problemáticas urbanas, análisis de datos y propuestas de desarrollo comunitario sostenible |
+| <img src="https://raw.githubusercontent.com/domenicaperex1007-pixel/FdD_E_14/1f8f25150f901ea72942f0af5bab73c1f0b4bd26/Recursos/Im%C3%A1genes/Caleb%20Cayco.png" width="80"> | Caleb Cayco | caleb.cayco@upch.pe | Documentación | Elaboración de informes, redacción técnica y presentación de resultados |
 
 ## 📌 Resumen 
 
