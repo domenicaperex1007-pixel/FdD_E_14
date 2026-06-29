@@ -47,7 +47,7 @@ Por ejemplo, un sistema de alerta temprana como Llaqta Guardian podría reducir 
 ## 👥 Integrantes del equipo
 
 | Foto | Nombre | Rol | Correo electrónico | Habilidades |
-|------|--------|-----|------------|
+|------|--------|-----|--------------------|-------------|
 | <img src="Recursos/Imágenes/Doménica Pérez.jpeg" width="80"> | Doménica Pérez | domenica.perez@upch.pe | Líder de equipo | Gestión de proyectos con enfoque en innovación social, sostenibilidad e impacto ambiental |
 | <img src="Recursos/Imágenes/Sofia Calva.jpeg" width = "80"> | Sofía Calva | sofia.calva@upch.pe | Programadora | Programación, simulación y automatización de procesos |
 | <img src="Recursos/Imágenes/Nemesis Dulanto.png" width="80"> | Némesis Dulanto | nemesis.dulanto@upch.pe | Diseñadora | Diseño de prototipos, innovación, creatividad y adaptabilidad  |
