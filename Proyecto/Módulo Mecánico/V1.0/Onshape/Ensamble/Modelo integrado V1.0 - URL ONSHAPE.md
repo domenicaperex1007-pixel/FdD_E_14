@@ -1,0 +1,1 @@
+| Modelado integrado (ensamblaje) | [Ver modelo](https://cad.onshape.com/documents/430f59dfc079aeac550c5cab/w/060fb58aac5f1bf0b57e059d/e/191eff5bff01dd2660d429a1) |

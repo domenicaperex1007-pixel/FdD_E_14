@@ -1,4 +1,4 @@
-# LLAQTA GUARDIAN: Sistema integral de alerta temprana comunitaria para detección de inundaciones fluviales
+# LLAQTA GUARDIAN: Sistema Integral de Alerta Temprana para la Detección de Inundaciones Fluviales en Comunidades Rurales
 
 # Introducción:
 
