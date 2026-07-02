@@ -12,7 +12,6 @@
 - Almacenamiento histórico en SQLite.
 - Dashboard web con nivel de agua, lluvia, riesgo, confianza, predicción y gráficas.
 - Clasificación del estado en: `NORMAL`, `PREVENTIVO`, `ALERTA` y `CRITICO`.
-- Alertas locales mediante LED y módulo MP3.
 
 ## Medidas consideradas del prototipo
 
@@ -51,8 +50,7 @@ sketch_jun25a/
 - ESP32.
 - Sensor ultrasónico impermeable.
 - DHT22.
-- Sensor de lluvia FC-37.
-- LED de alerta.
+- Sensor de lluvia.
 - Módulo MP3 para mensajes de alerta.
 - WiFi para comunicación con el servidor local.
 
@@ -111,10 +109,6 @@ POST /api/medicion     Recibe datos del ESP32
 GET  /api/ultimas      Devuelve las últimas mediciones
 POST /api/reiniciar    Borra el historial de mediciones
 ```
-
-## Nota de seguridad
-
-No subir contraseñas reales de WiFi ni datos sensibles al repositorio. Se recomienda usar valores de ejemplo en el código público.
 
 ## Estado del proyecto
 
